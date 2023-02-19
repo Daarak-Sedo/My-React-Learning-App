@@ -1,0 +1,15 @@
+import React from "react";
+
+function Dog(){
+    return(
+        <div>
+            <P>hi</P>
+            {/* <h1>User reciveing componant_function</h1> */}
+            {/* <button onClick={props.data}>call data function </button> */}
+            
+        </div>
+    )
+ 
+}
+
+export default Dog;
